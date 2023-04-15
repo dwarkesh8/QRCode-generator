@@ -7,6 +7,9 @@ require_once('lib/qrcode.php');
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>QR Code Generator</title>
+	<meta name="description" content="Quick & Simple way to create QR code of any text by using this PHP web application">
+    	<meta name="author" content="Dwarkesh Purohit">
+    	<meta name="keywords" content="QR Code Generator, PHP QR, Text to QR Code">
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
